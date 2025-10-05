@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Dmitriy]
+# 👋 Hi, I'm Dmitriy
 
 I'm a **Backend Developer** specializing in building robust and scalable web applications using **Python**.  
 My main focus is designing clean, efficient, and secure APIs and backend systems.
