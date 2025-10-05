@@ -10,7 +10,7 @@ My main focus is designing clean, efficient, and secure APIs and backend systems
 - 🐍 **Python**
 - 🌐 **Django** – full-featured web framework for scalable backend development  
 - ⚡ **FastAPI** – high-performance framework for modern RESTful APIs  
-- 🗄️ **PostgreSQL**, **SQLite**, **Redis**
+- 🗄️ **PostgreSQL**, **SQLite**
 - 🐳 **Docker** & **Docker Compose**
 - 🔄 **Git** & **GitHub Actions**
 - ☁️ **REST APIs**, **JWT Auth**, **Async Programming**
