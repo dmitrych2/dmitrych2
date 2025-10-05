@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm [Dmitriy]
 
-<!--
-**dmitrych2/dmitrych2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** specializing in building robust and scalable web applications using **Python**.  
+My main focus is designing clean, efficient, and secure APIs and backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+
+- 🐍 **Python**
+- 🌐 **Django** – full-featured web framework for scalable backend development  
+- ⚡ **FastAPI** – high-performance framework for modern RESTful APIs  
+- 🗄️ **PostgreSQL**, **SQLite**, **Redis**
+- 🐳 **Docker** & **Docker Compose**
+- 🔄 **Git** & **GitHub Actions**
+- ☁️ **REST APIs**, **JWT Auth**, **Async Programming**
+
+---
+
+### 💡 What I Do
+
+- Develop backend systems and RESTful APIs using Django and FastAPI  
+- Integrate databases and caching systems for optimized performance  
+- Design authentication and authorization logic (JWT, OAuth2)  
+
+---
+
+
+### 📫 Contact Me
+
+- 📧 Email: [dmitrychaliy00@gmail.com]  
+- 🐙 GitHub: [https://github.com/dmitrych2](#)
+
+---
+
+⭐ *I’m always open to new challenges and collaborations on Python backend projects!*
