@@ -34,4 +34,3 @@ My main focus is designing clean, efficient, and secure APIs and backend systems
 ---
 
 ⭐ *I’m always open to new challenges and collaborations on Python backend projects!*
- 
